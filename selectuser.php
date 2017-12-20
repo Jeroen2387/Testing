@@ -6,7 +6,6 @@
 </head>
 
 <body>
-<p>Welkom wereld! </p>
-<p>Mijn naam is Jeroen, hoe heet jij?</p>
+Gebruiker selecteren op id
 </body>
 </html>
